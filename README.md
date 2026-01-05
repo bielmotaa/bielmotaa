@@ -2,7 +2,16 @@
 
 **`Desenvolvedor Mobile`**
 
-Me chamo Gabriel Mota, atualmente cursando Engenharia de Software e formado como Técnico em Informática pela FMM, atuo há mais de 3 anos com desenvolvimento de software em ambiente ágil. Tenho experiência com React Native, Flutter, TypeScript, JavaScript, C, SQL, Firebase, Android Studio, APIs REST, SQLite, Prisma, Zustand, TailwindCSS e Git. Sigo arquitetura MVVM e sou entusiasta de soluções eficientes e bem estruturadas.
+Atualmente cursando Engenharia de Software, sou formado pela Fundação Matias Machline como Técnico em Informática. Possuo mais de 3 anos de experiência em desenvolvimento de software, com vivência em ambiente ágil de desenvolvimento.
+
+Sou um profissional apaixonado por criar soluções inovadoras e eficientes. Tenho experiência com React Native, API REST, Context API, SQLite, Drizzle ORM, Node.js, Next.js, Prisma ORM, Zustand, TailwindCSS, Zod, TypeScript, C, JavaScript, SQL, Flutter, Firebase e Android Studio. Automação CI/CD e Deploy de Apps iOS/Android
+
+
+Também possuo conhecimentos em bancos de dados e versionamento de código com Git/GitHub, além de noções avançadas de UX/UI e familiaridade com metodologias ágeis.
+
+Sigo a arquitetura MVVM (Model-View-ViewModel) para otimização e organização dos códigos, garantindo maior escalabilidade, manutenção e clareza na estrutura dos projetos.
+
+Estou entusiasmado para contribuir em projetos desafiadores, aprender continuamente e agregar valor às equipes em que estiver inserido. Aberto a novas oportunidades, estou pronto para aplicar minha experiência técnica de forma eficaz e colaborativa.
 
 ---
 
